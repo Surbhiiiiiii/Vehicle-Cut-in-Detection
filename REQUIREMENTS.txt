@@ -1,0 +1,12 @@
+Libraries Required:-
+cv2
+numpy
+math
+torch
+pandas
+subprocess
+moviepy.editor
+matplotlib
+collections
+pytube
+yolov5 model
